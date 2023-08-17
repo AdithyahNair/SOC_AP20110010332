@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeData>
+	<employee id="1">
+		<firstName>Adithyah</firstName>
+		<lastName>Nair</lastName>
+		<hireDate>12/07/2023</hireDate>
+		<deptCode>AG501</deptCode>
+		<salary>5000000</salary>
+	</employee>
+	<employee id="2">
+		<firstName>John</firstName>
+		<lastName>Doe</lastName>
+		<hireDate>12/07/2023</hireDate>
+		<deptCode>AG501</deptCode>
+		<salary>3000000</salary>
+	</employee>
+</EmployeeData>
